@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently pursuing my B.E in Artificial Intelligence & Machine Learning<br>🤝 I’m looking for help with Django<br>🌱 I’m currently learning Web development<br>📫 How to reach me, Links Provided Below 😉<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I read novels and watch anime
+🔭 I'm currently pursuing my B.E in Artificial Intelligence & Machine Learning<br>🤝 I’m looking for help with React<br>🌱 I’m currently learning Web development<br>📫 How to reach me, Links Provided Below 😉<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I read novels and watch anime
 
 
 ## 🌐 Socials:
